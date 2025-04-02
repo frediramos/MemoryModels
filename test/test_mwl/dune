@@ -1,5 +1,7 @@
 (tests
  (names
+  test_obj
+  test_mem
   test_obj_1_0
   test_obj_1_1
   test_obj_2_0

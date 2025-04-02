@@ -1,0 +1,7 @@
+(tests
+ (names
+  test_concrete_concrete
+  test_concrete_symbolic
+  test_symbolic_concrete
+  test_symbolic_symbolic)
+ (libraries memory_models smtml test))
